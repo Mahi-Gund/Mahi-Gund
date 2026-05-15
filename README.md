@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Mahi 👋
 
-<!--
-**Mahi-Gund/Mahi-Gund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Software Developer passionate about building scalable and efficient applications.
+🚀 Interested in Backend Development, Software Engineering, and Problem Solving.
+📚 Skilled in Java, OOPs, SQL, Data Structures & Algorithms, and Git/GitHub.
+🌱 Currently learning advanced backend technologies and improving system design skills.
+🎯 Goal: To create impactful software solutions and grow as a professional developer.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* SQL
+* Git & GitHub
+* Data Structures & Algorithms
+* Object-Oriented Programming
+
+## 📌 What I Do
+
+* Develop backend applications using Java
+* Solve coding and logical problems
+* Work on software development projects
+* Explore new technologies and frameworks
+
+## 📫 Connect With Me
+
+* GitHub: YourGitHubUsername
+* LinkedIn: YourLinkedInProfileLink
+
+⭐ “Code, Learn, Build, Repeat.”
