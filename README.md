@@ -2,7 +2,7 @@
 
 💻 Java Software Developer passionate about building scalable and efficient applications.
 🚀 Interested in Backend Development, Software Engineering, and Problem Solving.
-📚 Skilled in Java, OOPs, SQL, Data Structures & Algorithms, and Git/GitHub.
+📚 Skilled in Java, OOPs, SQL, Data Structures & Algorithms, Python-Django, and Git/GitHub.
 🌱 Currently learning advanced backend technologies and improving system design skills.
 🎯 Goal: To create impactful software solutions and grow as a professional developer.
 
