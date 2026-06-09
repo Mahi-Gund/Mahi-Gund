@@ -13,6 +13,7 @@
 * Git & GitHub
 * Data Structures & Algorithms
 * Object-Oriented Programming
+* Python-Django
 
 ## 📌 What I Do
 
@@ -23,7 +24,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: YourGitHubUsername
-* LinkedIn: YourLinkedInProfileLink
+* GitHub: Mahi-Gund
+* LinkedIn: https://www.linkedin.com/in/mahi-gund/
 
 ⭐ “Code, Learn, Build, Repeat.”
